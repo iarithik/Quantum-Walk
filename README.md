@@ -28,5 +28,5 @@ Beyond reproducing Gaussian distributions, the quantum Galton board can be modif
 The Hadamard walk described here is a discrete-time quantum walk using a coin qubit and a position register encoded in unary form. In a classical random walk, a coin flip decides whether to step left or right. In the quantum version, the coin qubit is placed into superposition with a Hadamard gate, allowing simultaneous “heads” and “tails” outcomes. The walker’s position is stored in unary form: exactly one qubit is in ∣1⟩ and the rest in ∣0⟩. Moving left or right swaps the ∣1⟩ using controlled-SWAP gates, with the direction determined by the coin state. Because the coin is in superposition, both shifts occur simultaneously, creating entanglement between coin and position. Over many steps, quantum interference amplifies some paths and cancels others, producing a final position distribution with distinctive peaks and dips, unlike the smooth Gaussian of a classical walk.
 
 
-Project Presentation deck:
+Project Presentation deck: https://docs.google.com/presentation/d/1DZa5P3yWn7IalSEK-o6oWlshdhKpCUPz-DTWzWcnJnI/edit?usp=sharing
 
