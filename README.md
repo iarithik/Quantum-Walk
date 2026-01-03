@@ -1,3 +1,5 @@
+[![Visitor Count](https://visitor-badge.laobi.io/badge?page_id=iarithik.Quantum-Walk)](https://github.com/iarithik/Quantum-Walk)
+
 # Quantum-Walk
 
 Project Name: Quantum Walks and Monte Carlo
