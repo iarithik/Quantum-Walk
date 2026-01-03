@@ -1,4 +1,4 @@
-[![Hits](https://hits.sh/github.com/iarithik/Quantum-Walk.svg)](https://hits.sh/github.com/iarithik/Quantum-Walk/)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fiarithik%2FQuantum-Walk&label=Visitors&icon=heart-half&color=%23084298&message=&style=flat&tz=localtime)
 
 # Quantum-Walk
 
