@@ -1,4 +1,4 @@
-[![Visitor Count](https://visitor-badge.laobi.io/badge?page_id=iarithik.Quantum-Walk)](https://github.com/iarithik/Quantum-Walk)
+[![Hits](https://hits.sh/github.com/iarithik/Quantum-Walk.svg)](https://hits.sh/github.com/iarithik/Quantum-Walk/)
 
 # Quantum-Walk
 
