@@ -1,3 +1,5 @@
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fiarithik%2FQuantum-Walk&label=Visitors&icon=heart-half&color=%23290661&message=&style=flat&tz=UTC)
+
 # Quantum-Walk
 
 Project Name: Quantum Walks and Monte Carlo
@@ -30,5 +32,3 @@ The Hadamard walk described here is a discrete-time quantum walk using a coin qu
 
 Project Presentation deck: https://docs.google.com/presentation/d/1KrFppkYxFeTtmI731l22ZemFqvWR4Y2SQlBNfl8zQ9s/edit?usp=drivesdk
 
-
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fiarithik%2FQuantum-Walk&label=Visitors&icon=heart-half&color=%23290661&message=&style=flat&tz=UTC)
